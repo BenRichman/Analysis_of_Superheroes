@@ -1,4 +1,4 @@
-# Analysis_of_Superheroes
+# Analysis of Superheroes
 ### Co-authors : Palak Bhatia, Vinit Nair
 
 ## Summary
