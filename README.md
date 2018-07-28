@@ -26,7 +26,7 @@ To visualize the relationships between historical events and the superheroes tha
 
 ![alt text][logo]
 
-[logo]: https://github.com/BenRichman/Analysis_of_Superheroes/blob/master/plots/superheroes_timeline.pnp "Superheroes Timeline 1"
+[logo]: https://github.com/BenRichman/Analysis_of_Superheroes/blob/master/plots/Superheroes_Timeline.png "Superheroes Timeline 2"
 Captain America is a product of WW2, a military symbol of all cultural calls of the time - that America act against Nazism, fascism, and communism, with the utmost leadership, strength, and honor. 
 
 The Cold War brought renewed interest in science and nuclear energy. Prominent scientist-heroes emerged, such as the Flash, the Hulk and Iron Man. Each character's alter ego romanticized science as America started valuing scientists as cultural and political figures. 
