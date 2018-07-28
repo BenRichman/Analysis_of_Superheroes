@@ -2,7 +2,7 @@
 ### Co-authors : Palak Bhatia, Vinit Nair 
 
 To view the interactive plots you can check the Python notebook at - 
-[NB Viewer Jupyter Notebook](http://nbviewer.jupyter.org/github/BenRichman/Analysis_of_Superheroes/blob/08fca6ef788f43b4330707e12330bc8de6130d77/notebook/superheroes.ipynb)
+[NB Viewer Jupyter Notebook](http://nbviewer.jupyter.org/github/BenRichman/Analysis_of_Superheroes/blob/e352291f631c7a628202e42d8974e128d1a9e24b/notebook/superheroes.ipynb)
 
 ## Summary
 Superheroes and villains are products of their time - representations of people's hopes and fears. They are reflections of ourselves and the cultural experience at the time, but while representative of the whole, they often miss accurate representations of minorities. 
@@ -53,7 +53,7 @@ To see if the representation of male-other changes over time, we plotted the gen
 
 ![alt text][logo3]
 
-[logo3]: https://github.com/BenRichman/Analysis_of_Superheroes/blob/master/plots/representation%20of%20sexual%20minorities.jpg "Sexual Orientation 1"
+[logo3]: https://github.com/BenRichman/Analysis_of_Superheroes/blob/master/plots/representation%20of%20sexual%20minorities%1.jpg "Sexual Orientation 2"
 
 Sexuality may be the conversation at the forefront of the representation debate, and the representation of sexual orientation in comics does not show a balanced representation. Even looking at characters created after 2000, the representation is around 99% straight  which is not indicative of the times. (https://www.psychologytoday.com/us/blog/sex-sexuality-and-romance/201607/how-many-straight-people-are-there).
 
